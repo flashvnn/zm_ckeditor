@@ -1,4 +1,4 @@
 ZM-CKEditor
 ===========
 
-CKEditor feature for fast development
+CKEditor feature for fast Drupal development.
